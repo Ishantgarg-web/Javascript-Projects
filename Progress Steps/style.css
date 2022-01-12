@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+}
+.container{
+	margin-top: 200px;
+}
+.btn{
+	margin: 0 auto;
+	margin-left: 60px;
+	border-radius: 100%;
+	font-size: 30px;
+	color: #83afaf;
+}
+.prev-next-container{
+	margin-top: 30px;
+}
+.prev-btn{
+	margin-right: 30px;
+	background-color: slateblue;
+	color: white;
+	font-size: 20px;
+	border-radius: 10%;
+	padding: 10px;
+	cursor: pointer;
+}
+.next-btn{
+	background-color: slateblue;
+	color: white;
+	font-size: 20px;
+	border-radius: 10%;
+	padding: 10px;
+	cursor: pointer;
+}
+.disabled-btn{
+	background-color: grey;
+	color: white;
+	cursor: not-allowed;
+}
+.outline-blue{
+	border-color: #00004d;
+}
+.border-style-prop{
+	border-style: none;
+}
